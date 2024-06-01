@@ -46,4 +46,4 @@ Additional relationships can be added to ensure data integrity and query optimiz
 
 # Video
 
-Link - https://drive.google.com/file/d/14ns-y5_jcDAhHxpoRmh1mDqLj5wAAeMK/view?usp=sharing
+Link - https://drive.google.com/file/d/14vcuOiQbG8O5v0DFjeMG7gOOt2KLtY1N/view?usp=sharing
